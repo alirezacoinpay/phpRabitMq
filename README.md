@@ -44,7 +44,7 @@ this is a simpler way to test the rabbitMQ
 
 Run the Worker :
    ```
-   php worker.php
+   php receive.php
    ```
 
 and then Run the Producer :
