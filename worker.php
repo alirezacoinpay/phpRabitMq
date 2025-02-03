@@ -26,5 +26,7 @@ try {
     echo $exception->getMessage();
 }
 
+
+
 $channel->close();
 $connection->close();
